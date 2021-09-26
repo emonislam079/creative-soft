@@ -1,6 +1,6 @@
 # Creative Software Co.
 
-Here is the live site of this website [Create React App](https://github.com/facebook/create-react-app).
+Here is the live site of this website [Creative Software Co.](https://gallant-wing-224597.netlify.app/).
 
 
 * This is a development site. 
