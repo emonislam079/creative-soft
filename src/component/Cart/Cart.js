@@ -8,7 +8,7 @@ const Cart = (props) => {
     let name = [];
     for (const profile of cart) {
         total = total + profile.salary;
-        name = name + profile.name;
+        name = name + profile.name + ',  ';
     }
     return (
         <div className='cart'>

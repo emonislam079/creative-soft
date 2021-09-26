@@ -1,24 +1,37 @@
 /* Design Profile Card using Vanila CSS */
 .profiles {
-    background-color: blanchedalmond;
+    background-color: rgb(236, 248, 250);
     border: 1px solid gray;
     border-radius: 5px;
+    margin-bottom: 5px;
   }
   .profiles img {
     width: 200px;
     height: 200px;
     margin: 10px;
+    margin-bottom: 2px;
     border-radius: 50%;
+    border: 3px solid gray;
   }
   .profiles h4 {
     font-size: 1.5em;
-    color: darkblue;
+    color: black;
+    line-height: 1px;
   }
   .profiles button {
     margin-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     font-size: 1em;
-    background-color: yellow;
+    background-color: #0dcaf0;
     border-radius: 5px;
+  }
+  .profiles button:hover{
+      color: white;
+      border: 1px solid white;
+  }
+  .profiles:hover{
+      border: 2px solid white;
   }
