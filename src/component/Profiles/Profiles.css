@@ -1,0 +1,24 @@
+/* Design Profile Card using Vanila CSS */
+.profiles {
+    background-color: blanchedalmond;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
+  .profiles img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 50%;
+  }
+  .profiles h4 {
+    font-size: 1.5em;
+    color: darkblue;
+  }
+  .profiles button {
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 1em;
+    background-color: yellow;
+    border-radius: 5px;
+  }

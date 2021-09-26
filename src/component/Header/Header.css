@@ -1,0 +1,23 @@
+.header {
+    background-color: rgb(135, 223, 250);
+    border-radius: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  .header h1 {
+    font-size: 100px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color: darkblue;
+  }
+  .header h6 {
+    font-size: 25px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+  .header h3 {
+    font-size: 35px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+  }

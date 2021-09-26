@@ -1,5 +1,10 @@
+* {
+  font-family: "PT Serif", serif;
+}
 .App {
   text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .App-logo {

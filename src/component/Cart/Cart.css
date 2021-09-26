@@ -1,0 +1,19 @@
+/* Design Cart using vanila CSS  */
+.cart {
+    background-color: pink;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: 30px 20px;
+    height: 300px;
+  }
+  .cart h2 {
+    margin-bottom: 50px;
+    align-items: center;
+  }
+  .cart button {
+    background-color: red;
+    padding: 3px 10px;
+    font-size: 1em;
+    color: azure;
+    border-radius: 5px;
+  }
