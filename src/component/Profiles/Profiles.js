@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import './Profiles.css'
 
-// Make Developers Profile Card Dynamically
+// Make Developers Profile Card Dynamicall
 const Profiles = (props) => {
     const { name, country, occupation, experience, salary, img } = props.profile;
     const iconCart = <FontAwesomeIcon icon={faShoppingCart} />
